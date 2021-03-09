@@ -2,5 +2,6 @@ body {
   background: green;
   margin: 20px;
   padding: 20px;
-  display: flex;
+
+  color: white;
 }
